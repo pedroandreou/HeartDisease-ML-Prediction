@@ -1,8 +1,5 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Report
-Report.pdf
-
 # Virtual env
 .venv
